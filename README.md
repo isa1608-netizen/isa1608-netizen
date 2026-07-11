@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm isabella</h1>
-<h3 align="center"> Hola, mi nombre es Isabela Saldaña. Soy una persona creativa, responsable y perseverante. Me gusta aprender cosas nuevas, expresar mis ideas y dar siempre lo mejor de mí. Disfruto practicar voleibol, compartir con las personas que quiero y enfrentar nuevos retos que me ayuden a crecer tanto personal como académicamente.</h3>
-✨🌷🎀🌷✨
+<h1 align="center"> Holaa soy izzy </h1>
+<h3 align="center"> Holi, mi nombre es Isabela Saldaña. Soy una persona creativa, responsable y perseverante. Me gusta aprender cosas nuevas, expresar mis ideas y dar siempre lo mejor de mí. Disfruto practicar voleibol, compartir con las personas que quiero y enfrentar nuevos retos que me ayuden a crecer tanto personal como académicamente.</h3>
+                                                                                                ✨🌷🎀🌷✨
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izzy&label=Profile%20views&color=0e75b6&style=flat" alt="izzy" /> </p>
 
-**I am studying computer science at university**
+
+
 
 -----
 
