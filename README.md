@@ -14,9 +14,10 @@
 <p align="left">
 <!-- <a href="https://dev.to/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="juandgo" height="30" width="40" /></a> -->
 
-https://www.instagram.com/bela_sm_/‼️‼️   
+🎀✨https://www.instagram.com/bela_sm_/🎀✨
 
-✨🎀https://www.tiktok.com/@b.e.l.a.s.m🎀✨
+‼️‼️ https://www.tiktok.com/@b.e.l.a.s.m‼️‼️ 
+
 
 </p>
 
